@@ -1,0 +1,34 @@
+{
+	"name" : "New Old Heroes",
+	"description" : "New heroes based on old 3DO artwork and other game appearances. Requires Horn of the Abyss.",
+	"modType" : "Heroes",
+	"version" : "1.2.0",
+	"author" : "Aphra",
+	"contact" : "",
+	
+	"heroes" :
+	[
+		"config/gwenneth.json",
+		"config/balindar.json",
+		"config/nicolas.json",
+		"config/kastore.json",
+		"config/kydoimos.json",
+		"config/athe.json",
+		"config/miseria.json",
+		"config/areshrak.json",
+		"config/pactal.json",
+		"config/zog.json"
+	],
+	
+	"changelog" :
+    {
+        "1.0.0"   : ["Initial release"],
+        "1.1.0"   : ["Added Nicolas Gryphonheart and Kastore"],
+        "1.1.1"   : ["Bug fixes"],
+        "1.2.0"   : ["Added some HotA portrait-only campaign heroes"]
+    },
+	
+	"depends" :
+		[ "hota.neutralCreatures" ]
+	"keepDisabled" : true
+}
