@@ -29,6 +29,9 @@
     },
 	
 	"depends" :
-		[ "hota.neutralCreatures" ]
+	[
+		"hota.neutralCreatures"
+	],
+	
 	"keepDisabled" : true
 }
