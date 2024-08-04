@@ -30,6 +30,11 @@
 		{ "skill" : "wisdom", "level": "basic" },
 		{ "skill" : "fireMagic", "level": "basic" }
 	],
+	
+	"spellbook" :
+	[
+	       "fireball"
+	],
     
 	"specialty" : {
 		"creature" : "efreet"
