@@ -1,0 +1,19 @@
+{
+	"name" : "NOH - Factory Heroes",
+	"description" : "Adds Heroes to Factory",
+	"modType" : "Compatibility",
+	"version" : "",
+	"author" : "Aphra",
+	"contact" : "",
+	
+	"heroes" :
+	[
+		"config/boyd.json"
+	],
+		
+	"depends" :
+		[
+			"hota.factory"
+		],
+	"keepDisabled" : false
+}

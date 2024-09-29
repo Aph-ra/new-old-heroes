@@ -1,0 +1,19 @@
+{
+	"name" : "NOH - Forge Heroes",
+	"description" : "Adds Heroes to Forge",
+	"modType" : "Compatibility",
+	"version" : "",
+	"author" : "Aphra",
+	"contact" : "",
+	
+	"heroes" :
+	[
+		"config/escaton.json"
+	],
+		
+	"depends" :
+	[
+		"hota.interference", "forge"
+	],
+	"keepDisabled" : false
+}

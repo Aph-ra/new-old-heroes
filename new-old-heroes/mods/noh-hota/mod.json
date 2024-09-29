@@ -1,0 +1,24 @@
+{
+	"name" : "NOH - HOTA Heroes",
+	"description" : "Adds various HOTA campaign heroes to base game factions (until HOTA 1.7 is successfully ported)",
+	"modType" : "Compatibility",
+	"version" : "",
+	"author" : "Aphra",
+	"contact" : "",
+	
+	"heroes" :
+	[
+		"config/kydoimos.json",
+		"config/athe.json",
+		"config/miseria.json",
+		"config/areshrak.json",
+		"config/pactal.json",
+		"config/zog.json"
+	],
+		
+	"depends" :
+		[
+			"hota.interference",
+		],
+	"keepDisabled" : false
+}

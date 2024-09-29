@@ -1,0 +1,75 @@
+{
+  "escaton2k" :
+  {
+    "class" : "cyborg2k",
+    "female" : false,
+    "special" : false,
+
+	"texts" :
+    {
+      "name" : "Escaton",
+      "biography" : "Escaton was an agent of the Ancients. Since the Kreegans had arrived on Enroth during the Night of Shooting Stars, Escaton had been tasked with destroying the planet to get rid of the foul creatures. He imprisoned the four elemental lords and used the power of the Elemental Planes to attempt to tear the planet apart.",
+      "specialty" :
+      {
+		"description" : "Starts with Expert Wisdom. Casts Expert Armageddon. Allied troops are immune to Armageddon.",
+		"tooltip" : "Mutli-bonus: Doombringer",
+        "name" : "Doombringer"
+      }
+    },
+
+	"images" :
+    {
+      "specialtySmall" : "Un32Wsdm",
+      "specialtyLarge" : "Un44Wsdm",
+      "large" : "EscatonLarge",
+      "small" : "EscatonSmall"
+    },
+
+	"skills":
+	[
+		{ "skill" : "wisdom", "level": "expert" },
+		{ "skill" : "interference", "level": "basic" }
+	],
+    
+	"specialty" : {
+		"bonuses" : {
+			"armageddonSpell" :	{
+				"subtype" : "spell.armageddon",
+				"type" : "SPELL",
+				"val" : 3,
+				"valueType" : "INDEPENDENT_MAX"
+			},
+			"armageddonImmune" :	{
+				"subtype" : "spell.armageddon",
+				"type" : "SPELL_IMMUNITY",
+				"val" : 0,
+				"valueType" : "BASE_NUMBER",
+				"addInfo" : 1
+			}
+		}
+	},
+	
+	"spellbook" :
+	[
+	       "armageddon"
+	],
+	
+	"army" : [
+		{
+			"creature" : "nagaHeavy2k",
+			"min" : 6,
+			"max" : 6
+		},
+		{
+			"creature" : "nagaHeavy2k",
+			"min" : 3,
+			"max" : 3
+		},
+		{
+			"creature" : "nagaHeavy2k",
+			"min" : 1,
+			"max" : 1
+		}
+	]
+  }
+}
