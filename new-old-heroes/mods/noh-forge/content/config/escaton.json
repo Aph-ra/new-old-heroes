@@ -19,8 +19,8 @@
 
 	"images" :
     {
-      "specialtySmall" : "Un32Wsdm",
-      "specialtyLarge" : "Un44Wsdm",
+      "specialtySmall" : "Un32Arma",
+      "specialtyLarge" : "Un44Arma",
       "large" : "EscatonLarge",
       "small" : "EscatonSmall"
     },
@@ -56,17 +56,17 @@
 
 	"army" : [
 		{
-			"creature" : "jumpSoldier",
+			"creature" : "jumpTrooper",
 			"min" : 6,
 			"max" : 6
 		},
 		{
-			"creature" : "jumpSoldier",
+			"creature" : "jumpTrooper",
 			"min" : 3,
 			"max" : 3
 		},
 		{
-			"creature" : "jumpSoldier",
+			"creature" : "jumpTrooper",
 			"min" : 1,
 			"max" : 1
 		}

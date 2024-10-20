@@ -19,8 +19,8 @@
 
 	"images" :
     {
-      "specialtySmall" : "Un32Wsdm",
-      "specialtyLarge" : "Un44Wsdm",
+      "specialtySmall" : "Un32Arma",
+      "specialtyLarge" : "Un44Arma",
       "large" : "EscatonLarge",
       "small" : "EscatonSmall"
     },

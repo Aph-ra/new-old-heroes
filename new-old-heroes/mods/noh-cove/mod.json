@@ -1,18 +1,19 @@
 {
 	"name" : "NOH - Cove Heroes",
-	"description" : "Adds Heroes to Cove (NONE ADDED YET - KEEP DISABLED)",
-	"modType" : "Compatibility",
+	"description" : "Adds Heroes to Cove (NONE ADDED YET - KEEP DISABLED).",
+	"modType" : "Heroes",
 	"version" : "",
 	"author" : "Aphra",
 	"contact" : "",
 	
 	"heroes" :
 	[
+		//"config/hero.json"
 	],
 		
 	"depends" :
 		[
 			"hota.cove"
 		],
-	"keepDisabled" : false
+	"keepDisabled" : true
 }

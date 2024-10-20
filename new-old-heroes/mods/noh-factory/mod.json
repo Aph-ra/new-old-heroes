@@ -1,7 +1,7 @@
 {
 	"name" : "NOH - Factory Heroes",
-	"description" : "Adds Heroes to Factory",
-	"modType" : "Compatibility",
+	"description" : "Adds Heroes to Factory.",
+	"modType" : "Heroes",
 	"version" : "",
 	"author" : "Aphra",
 	"contact" : "",
@@ -15,5 +15,5 @@
 		[
 			"hota.factory"
 		],
-	"keepDisabled" : false
+	"keepDisabled" : true
 }

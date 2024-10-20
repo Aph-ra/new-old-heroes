@@ -1,7 +1,7 @@
 {
 	"name" : "NOH - HOTA Heroes",
 	"description" : "Adds various HOTA campaign heroes to base game factions (until HOTA 1.7 is successfully ported)",
-	"modType" : "Compatibility",
+	"modType" : "Heroes",
 	"version" : "",
 	"author" : "Aphra",
 	"contact" : "",
@@ -20,5 +20,5 @@
 		[
 			"hota.interference",
 		],
-	"keepDisabled" : false
+	"keepDisabled" : true
 }

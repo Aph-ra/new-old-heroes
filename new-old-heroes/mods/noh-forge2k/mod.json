@@ -1,19 +1,23 @@
 {
 	"name" : "NOH - Forge2k Heroes",
-	"description" : "Adds Heroes to Forge2k",
-	"modType" : "Compatibility",
+	"description" : "Adds Heroes to Forge2k. YOUR GAME WILL CRASH if you do not disable EITHER Forge or Forge2k after installation depending on which faction you wish to add heroes to! This is to avoid duplication of these heroes!",
+	"modType" : "Heroes",
 	"version" : "",
 	"author" : "Aphra",
 	"contact" : "",
-	
+	"keepDisabled" : true,	
 	"heroes" :
 	[
 		"config/escaton.json"
 	],
 		
 	"depends" :
-	[
-		"hota.interference", "forge2k"
-	],
-	"keepDisabled" : false
+		[
+			"hota.interference", "forge2k"
+		],
+		"conflicts" :
+		[
+			"new-old-heroes.noh-forge"
+		],
+	"keepDisabled" : true
 }
