@@ -24,7 +24,7 @@
         "1.2.1"   : ["Athe now has a Spell Book & starts with Fireball"],
 		"1.3.0"   : ["Added Lord Soth from WoG (totally not originally from Dragonlance/Ravenloft)"],
 		"1.4.0"   : ["Moved certain heroes to submods; added Escaton from M&M 8 to EITHER Forge OR Forge2k"],
-		"1.4.1"   : ["Changed Escaton's specialty image to Armageddon; Added Forge and Forge2k conflict warnings"]
+		"1.4.1"   : ["Changed Escaton's specialty image to Armageddon; Added Forge and Forge2k conflict warnings"],
 		"1.4.2"   : ["Changed Escaton (Forge) to have upgraded level 6 units (same as Forge2k)"]
     },
 	
