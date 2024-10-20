@@ -17,8 +17,13 @@
 	],
 		
 	"depends" :
-		[
-			"hota.interference",
-		],
-	"keepDisabled" : true
+	[
+		"hota.interference",
+	],
+	"keepDisabled" : true,
+	
+	"czech" : {
+		"name" : "HOTA Hrdinové",
+		"description" : "Přidává různé hrdiny z kampaně HOTA do frakcí základní hry"
+	}
 }
