@@ -2,7 +2,7 @@
 	"name" : "New Old Heroes",
 	"description" : "New heroes based on old 3DO artwork and other game appearances. Requires Horn of the Abyss. YOUR GAME WILL CRASH if you do not disable EITHER Forge or Forge2k after installation depending on which faction you wish to add heroes to! This is to avoid duplication of these heroes!",
 	"modType" : "Heroes",
-	"version" : "1.4.2",
+	"version" : "1.4.3",
 	"author" : "Aphra",
 	"contact" : "",
 	
@@ -16,17 +16,23 @@
 	],
 	
 	"changelog" :
-    {
-        "1.0.0"   : ["Initial release"],
-        "1.1.0"   : ["Added Nicolas Gryphonheart and Kastore"],
-        "1.1.1"   : ["Bug fixes"],
-        "1.2.0"   : ["Added some HOTA portrait-only campaign heroes"],
-        "1.2.1"   : ["Athe now has a Spell Book & starts with Fireball"],
+	{
+		"1.0.0"   : ["Initial release"],
+		"1.1.0"   : ["Added Nicolas Gryphonheart and Kastore"],
+		"1.1.1"   : ["Bug fixes"],
+		"1.2.0"   : ["Added some HOTA portrait-only campaign heroes"],
+		"1.2.1"   : ["Athe now has a Spell Book & starts with Fireball"],
 		"1.3.0"   : ["Added Lord Soth from WoG (totally not originally from Dragonlance/Ravenloft)"],
 		"1.4.0"   : ["Moved certain heroes to submods; added Escaton from M&M 8 to EITHER Forge OR Forge2k"],
 		"1.4.1"   : ["Changed Escaton's specialty image to Armageddon; Added Forge and Forge2k conflict warnings"],
-		"1.4.2"   : ["Changed Escaton (Forge) to have upgraded level 6 units (same as Forge2k)"]
-    },
+		"1.4.2"   : ["Changed Escaton (Forge) to have upgraded level 6 units (same as Forge2k)"],
+		"1.4.3"   : ["Czech translation by George King"]
+	},
+
+	"czech" : {
+		"name" : "Staronoví hrdinové",
+		"description" : "Noví hrdinové založení na staré grafice od 3DO a jiných herních vzhledu. Vyžaduje Horn of the Abyss."
+	},
 	
 	"depends" :
 		[
