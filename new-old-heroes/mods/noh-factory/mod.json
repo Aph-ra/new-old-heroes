@@ -15,10 +15,5 @@
 		[
 			"hota.factory"
 		],
-	"keepDisabled" : true,
-
-	"czech" : {
-		"name" : "Hrdinové Továrny",
-		"description" : "Přidá hrdiny do Továrny."
-	}
+	"keepDisabled" : true
 }

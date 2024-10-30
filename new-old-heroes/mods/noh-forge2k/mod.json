@@ -5,6 +5,7 @@
 	"version" : "",
 	"author" : "Aphra",
 	"contact" : "",
+	"keepDisabled" : true,	
 	"heroes" :
 	[
 		"config/escaton.json"
@@ -18,10 +19,4 @@
 		[
 			"new-old-heroes.noh-forge"
 		],
-	"keepDisabled" : true,
-
-	"czech" : {
-		"name" : "Hrdinové Kovárny 2000",
-		"description" : "Přidá hrdiny do Kovárny 2000"
-	}
 }
