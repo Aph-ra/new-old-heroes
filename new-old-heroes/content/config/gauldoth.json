@@ -42,7 +42,12 @@
 			}
 		}
 	},
-	
+
+	"spellbook" :
+	[
+	       "animateDead"
+	],
+
 	"army" : [
 		{
 			"creature" : "lich",
