@@ -12,8 +12,8 @@
       "specialty" :
       {
 		"description" : "Bellows a fear-inducing war cry, afflicting enemies with Sorrow for 10 turns at the start of combat.",
-		"tooltip" : "Spell Bonus: Sorrow",
-        "name" : "Sorrow"
+		"tooltip" : "Combat Bonus: War Cry",
+        "name" : "War Cry"
       }
     },
 

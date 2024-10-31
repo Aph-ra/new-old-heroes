@@ -8,7 +8,7 @@
 	"texts" :
     {
       "name" : "Golwyn",
-      "biography" : "Golwyn was never the traditionalist: his hair has been bleached blonde since childhood, he refuses to wear a helmet (though begrudgingly accepts he must at least a coif), and he owns the bulkiest armour imaginable, in which he probably stores his ego. Although he believes he is a ladies' man, almost all women see him as a walking definition of the word \"compensation\".",
+      "biography" : "Golwyn was never the traditionalist: his hair has been bleached blonde since childhood, he refuses to wear a helmet (though begrudgingly accepts he must at least wear a coif), and he owns the bulkiest armour imaginable, in which he probably stores his ego. Although he believes he is a ladies' man, almost all women see him as a walking definition of the word \"compensation\".",
       "specialty" :
       {
 		"description" : "Receives a 5% per level bonus to Armorer skill percentage.",
