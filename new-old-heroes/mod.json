@@ -2,7 +2,7 @@
 	"name" : "New Old Heroes",
 	"description" : "New heroes based on old 3DO artwork and other game appearances. Requires Horn of the Abyss. YOUR GAME WILL CRASH if you do not disable EITHER Forge or Forge2k after installation depending on which faction you wish to add heroes to! This is to avoid duplication of these heroes!",
 	"modType" : "Heroes",
-	"version" : "1.5.0",
+	"version" : "1.6.0",
 	"author" : "Aphra",
 	"contact" : "",
 	
@@ -16,7 +16,10 @@
 		"config/lysander.json",
 		"config/gauldoth.json",
 		"config/waerjak.json",
-		"config/kastore.json" 
+		"config/kastore.json",
+		"config/ravenwood.json",
+		"config/golwyn.json",
+		"config/mirael.json"
 	],
 	
 	"changelog" :
@@ -31,7 +34,8 @@
 		"1.4.1"   : ["Changed Escaton's specialty image to Armageddon; Added Forge and Forge2k conflict warnings"],
 		"1.4.2"   : ["Changed Escaton (Forge) to have upgraded level 6 units (same as Forge2k)"],
 		"1.4.3"   : ["Czech translation by George King"],
-		"1.5.0"   : ["Added Lysander, Gauldoth, and Waerjak from H4, and Archibald from H2"]
+		"1.5.0"   : ["Added Lysander, Gauldoth, and Waerjak from H4, and Archibald from H2"],
+		"1.6.0"   : ["Added Taryn Ravenwood, Golywn, and Mirael from Adam McCarthy's concept art; minor Gauldoth fixes"]
     },
 
 	"czech" : {
@@ -41,7 +45,7 @@
 	
 	"depends" :
 		[
-			"hota.neutralCreatures", "hota.interference"
+			"hota.cove", "hota.neutralCreatures", "hota.interference"
 		],
 	"keepDisabled" : true
 }
