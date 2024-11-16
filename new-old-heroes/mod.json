@@ -37,23 +37,23 @@
 		"1.5.0"   : ["Added Lysander, Gauldoth, and Waerjak from H4, and Archibald from H2"],
 		"1.6.0"   : ["Added Taryn Ravenwood, Golywn, and Mirael from Adam McCarthy's concept art; minor Gauldoth fixes"],
 		"1.6.1"   : ["Updated Czech translation"],
-                "1.6.2"   : ["Updated Polish translation by FallainBlack"]
+        "1.6.2"   : ["Updated Polish translation by FallainBlack"]
     },
 
         "czech" : {
-		"name" : "Staronoví hrdinové",
-		"description" : "Noví hrdinové založení na staré grafice od 3DO a jiných herních vzhledů. Vyžaduje Horn of the Abyss.",
-                "translations" : [
-			"translation/new-old-heroes/czech.json"
-                                 ]
-	},
+			"name" : "Staronoví hrdinové",
+			"description" : "Noví hrdinové založení na staré grafice od 3DO a jiných herních vzhledů. Vyžaduje Horn of the Abyss.",
+			"translations" : [
+				"translation/new-old-heroes/czech.json"
+			]
+		},
         "polish" : {
-		"name" : "Nowi Starzy Bohaterowie",
-		"description" : "Nowi bohaterowie bazujący na starych grafikach 3DO i innych wersjach gry. Wymaga Horn of the Abyss. TWOJA GRA ulegnie awarii, jeśli po instalacji nie wyłączysz Forge lub Forge2k, w zależności od frakcji, do której chcesz dodać bohaterów! Ma to na celu uniknięcie powielania tych bohaterów!",
-                "translations" : [
-			"translation/new-old-heroes/polish.json"
-                                 ]
-	},
+			"name" : "Nowi Starzy Bohaterowie",
+			"description" : "Nowi bohaterowie bazujący na starych grafikach 3DO i innych wersjach gry. Wymaga Horn of the Abyss. TWOJA GRA ulegnie awarii, jeśli po instalacji nie wyłączysz Forge lub Forge2k, w zależności od frakcji, do której chcesz dodać bohaterów! Ma to na celu uniknięcie powielania tych bohaterów!",
+			"translations" : [
+				"translation/new-old-heroes/polish.json"
+			]
+		},
 	
 	"depends" :
 		[
