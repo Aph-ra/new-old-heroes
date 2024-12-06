@@ -5,7 +5,6 @@
 	"version" : "",
 	"author" : "Aphra",
 	"contact" : "",
-	
 	"heroes" :
 	[
 		"config/kydoimos.json",
@@ -15,10 +14,13 @@
 		"config/pactal.json",
 		"config/zog.json"
 	],
-		
 	"depends" :
-		[
-			"hota.interference",
-		],
-	"keepDisabled" : true
+	[
+		"hota.interference",
+	],
+	"keepDisabled" : true,
+	"czech" : {
+		"name" : "Hrdinové Horn of the Abyss",
+		"description" : "Přidá nové hrdiny pro Horn of the Abyss "
+	}
 }
