@@ -2,7 +2,7 @@
 	"name" : "New Old Heroes",
 	"description" : "New heroes based on old 3DO artwork and other game appearances. Requires Horn of the Abyss.",
 	"modType" : "Heroes",
-	"version" : "1.6.3",
+	"version" : "1.6.4",
 	"author" : "Aphra",
 	"contact" : "",
 	"depends" :
@@ -44,7 +44,8 @@
 		"1.6.0"   : ["Added Taryn Ravenwood, Golywn, and Mirael from Adam McCarthy's concept art; minor Gauldoth fixes"],
 		"1.6.1"   : ["Updated Czech translation"],
         "1.6.2"   : ["Updated Polish translation by FallainBlack"],
-        "1.6.3"   : ["Updated Czech translation", "Removed not needed conflicts"]
+        "1.6.3"   : ["Updated Czech translation", "Removed not needed conflicts"],
+		"1.6.4"   : ["Update Format for the new factory naming and file structure."]
     },
 
 	"czech" : {
